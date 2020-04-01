@@ -2,6 +2,8 @@ var s = 24;
 
 var y = 33;
 
-var z = y+s;
+var z = y+ s + 7;
+
+var z = z * y + s;
 
 console.log(z);
