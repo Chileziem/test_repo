@@ -1,0 +1,7 @@
+var s = 24;
+
+var y = 33;
+
+var z = y+s;
+
+console.log(z);
